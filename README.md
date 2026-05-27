@@ -53,3 +53,6 @@ Needs sampling / summarization layer
 Better separation of:
 computation (pandas)
 reasoning (LLM)
+
+
+Credits - https://plus.columbia.edu/content/prompt-engineering-programming-openai
